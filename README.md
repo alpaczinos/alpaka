@@ -1,2 +1,2 @@
 # alpaka
-if this is opciotnal, then I dont give a fuck elo
+if this is opcional, then I dont give a fuck elo
